@@ -26,7 +26,7 @@ CSP Gym is a benchmark environment for applying reinforcement learning to crysta
     ```
 
 2. Install dependencies:
-    
+
     ```bash
     pip install uv
     uv venv .venv --python 3.10 
@@ -36,16 +36,16 @@ CSP Gym is a benchmark environment for applying reinforcement learning to crysta
 
 3. Usage
 
-    See the `examples/train.py` script for an example of training a PPO agent using Stable-Baselines3.
+   See the `examples/train.py` script for an example of training a PPO agent using Stable-Baselines3.
 
 4. Citation
 
-    If you use CSP Gym in your research, please cite:
+   If you use CSP Gym in your research, please cite:
 
     ```
     @article{wang2025cspgym,
       title={No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning},
-      author={Xiean Wang, Pin Chen, Zou Qingsong},
+      author={Xiean Wang, Pin Chen, Qingsong Zou},
       year={2025}
     }
     ```
