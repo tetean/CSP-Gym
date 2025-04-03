@@ -13,9 +13,9 @@
 </h4>
 
 
-# CSP Gym: A Reinforcement Learning Environment for Crystal Structure Prediction
+# No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning
 
-CSP Gym is a benchmark environment for applying reinforcement learning to crystal structure prediction (CSP). The goal is to find the lowest energy configuration of a crystal by adjusting lattice parameters and atomic positions.
+CSP-Gym is a benchmark environment for applying reinforcement learning to crystal structure prediction (CSP). The goal is to find the lowest energy configuration of a crystal by adjusting lattice parameters and atomic positions.
 
 ## Installation
 
