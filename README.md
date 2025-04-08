@@ -27,18 +27,8 @@ CSP-Gym is a benchmark environment for applying reinforcement learning to crysta
 
 2. Install dependencies:
 
-[//]: # (    ```bash)
+   CSP-Gym mainly relies on `gymnasium` `numpy` `matplotlib` `stable-baselines3`.
 
-[//]: # (    pip install uv)
-
-[//]: # (    uv venv .venv --python 3.10 )
-
-[//]: # (    source .venv/bin/activate)
-
-[//]: # (    uv pip install -e .)
-
-[//]: # (    ```)
-   CSP-Gym mainly relies on `gymnasium` `numpy` `matplotlib` `stable-baselines3`
    ```bash
    pip install gymnasium numpy matplotlib stable-baselines3
    ```
