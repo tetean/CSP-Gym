@@ -38,7 +38,7 @@ CSP-Gym is a benchmark environment for applying reinforcement learning to crysta
 [//]: # (    uv pip install -e .)
 
 [//]: # (    ```)
-CSP-Gym mainly relies on `gymnasium` `numpy` `matplotlib` `stable-baselines3`
+   CSP-Gym mainly relies on `gymnasium` `numpy` `matplotlib` `stable-baselines3`
    ```bash
    pip install gymnasium numpy matplotlib stable-baselines3
    ```
@@ -47,7 +47,7 @@ CSP-Gym mainly relies on `gymnasium` `numpy` `matplotlib` `stable-baselines3`
 
 3. Usage
 
-   See the [`Quick Start`](cspgym.tetean.com) script for an example of training a PPO agent using Stable-Baselines3.
+   See the [`Quick Start`](cspgym.tetean.com) script for an example of training a agent using Stable-Baselines3.
 
 4. Citation
 
