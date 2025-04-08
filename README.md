@@ -27,16 +27,27 @@ CSP-Gym is a benchmark environment for applying reinforcement learning to crysta
 
 2. Install dependencies:
 
-    ```bash
-    pip install uv
-    uv venv .venv --python 3.10 
-    source .venv/bin/activate
-    uv pip install -e .
-    ```
+[//]: # (    ```bash)
+
+[//]: # (    pip install uv)
+
+[//]: # (    uv venv .venv --python 3.10 )
+
+[//]: # (    source .venv/bin/activate)
+
+[//]: # (    uv pip install -e .)
+
+[//]: # (    ```)
+CSP-Gym mainly relies on `gymnasium` `numpy` `matplotlib` `stable-baselines3`
+   ```bash
+   pip install gymnasium numpy matplotlib stable-baselines3
+   ```
+
+   > There are a few other dependencies that need to be installed manually to adapt to different CUDA versions.
 
 3. Usage
 
-   See the `examples/train.py` script for an example of training a PPO agent using Stable-Baselines3.
+   See the [`Quick Start`](cspgym.tetean.com) script for an example of training a PPO agent using Stable-Baselines3.
 
 4. Citation
 
