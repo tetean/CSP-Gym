@@ -37,16 +37,15 @@ CSP-Gym is a benchmark environment for applying reinforcement learning to crysta
 
 3. Usage
 
-   See the [`Quick Start`](cspgym.tetean.com) script for an example of training a agent using Stable-Baselines3.
+   See the [Quick Start](https://cspgym.tetean.com) script for an example of training a agent using Stable-Baselines3.
 
-4. Citation
+## Citation
 
-   If you use CSP Gym in your research, please cite:
-
-    ```
-    @article{wang2025cspgym,
-      title={No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning},
-      author={Xiean Wang, Pin Chen, Qingsong Zou},
-      year={2025}
-    }
-    ```
+   - If you use CSP Gym in your research, please cite:
+       ```
+       @article{wang2025cspgym,
+         title={No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning},
+         author={Xie'an Wang, Pin Chen, Qingsong Zou},
+         year={2025}
+       }
+       ```
