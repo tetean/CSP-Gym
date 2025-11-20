@@ -43,9 +43,12 @@ CSP-Gym is a benchmark environment for applying reinforcement learning to crysta
 
    - If you use CSP Gym in your research, please cite:
        ```
-       @article{wang2025cspgym,
-         title={No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning},
-         author={Xie'an Wang, Pin Chen, Qingsong Zou},
-         year={2025}
-       }
+      @inproceedings{wang2025cspgym,
+        title={No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning},
+        author={Wang, Xiean and Chen, Pin and Zou, Qingsong},
+        booktitle={International Conference on Intelligent Computing},
+        pages={307--318},
+        year={2025},
+        organization={Springer}
+      }
        ```
